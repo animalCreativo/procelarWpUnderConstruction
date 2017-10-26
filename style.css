@@ -26,7 +26,8 @@ body {
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff336b', endColorstr='#ffffff',GradientType=0 );
   /* IE6-9 */
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'Open Sans', sans-serif;
+  background-repeat: no-repeat; }
 
 h3 p, h1 p {
   color: white; }

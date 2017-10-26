@@ -23,6 +23,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
 
 body {
+
   height:100%;
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff336b+0,ffffff+75 */
 background: rgb(255,51,107); /* Old browsers */
@@ -31,6 +32,7 @@ background: -webkit-linear-gradient(top, rgba(255,51,107,1) 0%,rgba(255,255,255,
 background: linear-gradient(to bottom, rgba(255,51,107,1) 0%,rgba(255,255,255,1) 75%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff336b', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
   font-family: 'Open Sans', sans-serif;
+        background-repeat: no-repeat;
 }
 
 h3 p, h1 p {

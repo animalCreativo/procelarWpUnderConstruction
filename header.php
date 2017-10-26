@@ -15,7 +15,7 @@
     <meta charset="<?php bloginfo( 'charset' ); ?>" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
-    <title>Umbrella Intelligent - Protección y reparación de la piel desde su ADN</title>
+    <title>Procelar - Tratamiento en gel que fortalece las pestañas desde la raíz.</title>
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory')?>/css/foundation-flex.css">
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory')?>/style.css">
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory')?>/icons/foundation-icons.css">
